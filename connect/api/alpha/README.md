@@ -1,6 +1,6 @@
 # Connect API (Alpha)
 
-Write Date: April 14, 2016
+Write Date: April 14, 2016  
 API Version Prefix: `/api`
 
 ## Routes
