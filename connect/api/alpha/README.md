@@ -1,6 +1,7 @@
 # Connect API (Alpha)
 
 Write Date: April 14, 2016  
+Last Update: July 5, 2016  
 API Version Prefix: `/api`
 
 ## Routes
@@ -21,13 +22,25 @@ Gets a track by id.
 
 Gets all releases. You can use default collection query options.
 
-### GET `/catalog/release/:id` 
+### GET `/catalog/release/:catalog_id` 
 
-Gets a release by id.
+Gets a release by id OR catalog id.
 
 ### GET `/catalog/release/:id/tracks` 
 
 Gets you tracks for a release. You can use default collection query options.
+
+### GET `/catalog/artist`
+
+Gets you artists.
+
+### GET `/catalog/artist/:vanity_uri`
+
+Gets you an artist by id or their vanity URI
+
+### GET `/catalog/artist/:vanity_uri/releases`
+
+Gets you an artists releases.
 
 ### GET `/playlist` 
 
@@ -73,11 +86,16 @@ Specifies the number of results you wish to fetch.
 **WARNING**
 > In the future it may be capped.
 
-#### Filter/On 
+#### Fuzzy Match
 
-`by_key=akey&by_value=avalue`
+`fuzzy=field,value,field2,value2`
 
-Filters on the specified key for the value.
+Specifies searches with fuzzy matching. This is an AND operation. Use `fuzzyOr` for OR operations.  
+The parameter value is a comma separated pair list.
 
-**WARNING**
-> To be replaced with a more abstract technique.
+#### Filter Match
+
+`filter=field,value,field2,value2`
+
+Specifies searches with exact matching. This is an AND operation. Use `filterOr` for OR operations.  
+The parameter value is a comma separated pair list.
