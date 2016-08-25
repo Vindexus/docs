@@ -46,9 +46,9 @@ If you have an irregular subscription (non-monthly) your subscription will be ca
 ### Where do I use my coupon code?
 Because of the way PayPal works, you'll have to first cancel your Gold subscription, then recreate it with the coupon code.
 
-1. Cancel your subscription by clicking *Cancel Subscription* on the right side of this page: https://www.monstercat.com/account/services
+1. Cancel your subscription by clicking *Cancel Subscription* link on this page: https://www.monstercat.com/account/services
 2. Refresh the page at https://www.monstercat.com/account/services
-3. Enter your coupon code in the *Special Code* field on the right side of that page
+3. Enter your coupon code in the *Special Code* field on that page
 
 ### Why the difference for PayPal subscribers?
 
