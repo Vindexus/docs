@@ -64,4 +64,4 @@ The migration will begin in the coming weeks and it will be done in batches to e
 
 ### Have more questions?
 
-Please send us any questions or concerns to connect@monstercat.com or click the **Talk To Us** link in the bottom left of this page.
+Please send us any questions or concerns to connect@monstercat.com or click the **Talk To Us** link in the bottom left of the Monstercat.com website.
