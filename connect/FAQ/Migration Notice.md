@@ -43,6 +43,13 @@ If you have a month to month subscription your subscription will be reduced to t
 
 If you have an irregular subscription (non-monthly) your subscription will be canceled and you will receive a coupon code with free months you are owed. If you want you may also alternatively request a refund for any remaining months.
 
+### Where do I use my coupon code?
+Because of the way PayPal works, you'll have to first cancel your Gold subscription, then recreate it with the coupon code.
+
+1. Cancel your subscription by clicking *Cancel Subscription* on the right side of this page: https://www.monstercat.com/account/services
+2. Refresh the page at https://www.monstercat.com/account/services
+3. Enter your coupon code in the *Special Code* field on the right side of that page
+
 ### Why the difference for PayPal subscribers?
 
 The PayPal API does not allow us to modify your payment period or give you free access for any number of months.
