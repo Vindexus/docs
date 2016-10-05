@@ -23,10 +23,10 @@
 ## Using Monstercat Music in Your Videos
 
 **Option 1:**  
-Content creators can purchase a whitelist license from https://www.monstercat.com/licensing/content-creators. This includes the addition of your channel to our whitelist, protecting your channel from any Content ID claims. You can 100% monetize your content on YouTube, Twitch, and Beam with a Monstercat license.
+Content creators can purchase a whitelist license from https://www.monstercat.com/licensing/content-creators. This includes the addition of your channel to our whitelist, protecting your channel from any Content ID claims. You can 100% monetize your content on YouTube, Twitch, and Beam with a Monstercat whitelist license.
 
 **Option 2:**  
-Content creators can continue to use Monstercat music that has been purchased from approved stores without a Monstercat license, and those videos will be receive Content ID claims as described above.
+Content creators can continue to use Monstercat music that has been purchased from approved stores without a Monstercat license, and those videos will receive Content ID claims as described in our policy.
 
 **Option 3:**  
-Content creators can apply to join the Monstercat Partner Program where they will receive a complementary Monstercat license at zero cost. This program is extremely limited and only open to highly influential content creators. Apply here:http://bit.ly/LicensingRequest
+Content creators can apply to join the Monstercat Partner Program where they will receive a complementary Monstercat license at zero cost. This program is extremely limited and only open to highly influential content creators. Apply here: http://bit.ly/LicensingRequest
