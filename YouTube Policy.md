@@ -28,10 +28,10 @@ Content creators can apply to join the Monstercat Partner Program where they wil
 >
 >We ask that all music used in a video be credited in the video description using the following format:
 >
->Title: `song name` by `artist name`
->iTunes Download Link: `iTunes link to song`
->Listen on Spotify: `Spotify link to song`
->Video Link: `YouTube link to song`
+>Title: `song name` by `artist name`  
+>iTunes Download Link: `iTunes link to song`  
+>Listen on Spotify: `Spotify link to song`  
+>Video Link: `YouTube link to song`  
 
 >A content-id match will automatically be applied to videos using our music. This guarantees that the original musician fairly receives a % of the audio portion of the advertising earnings. This does not affect the video or channel in any way. We have strong relationships with every major gaming network. (ie Machinima, Curse, TGS, Fullscreen, TGN)
 
@@ -42,35 +42,25 @@ These policies do not ONLY apply to gaming but to all YouTube video content. We 
 [Note] Some people have been counter-claiming these automated claims. If you do not have a license then we ask that you do not counter-claim. We will have to hand out a strike if a claim is counter-claimed repeatedly. This is only fair to the original artists. 
 
 ## Promoter Channel Policy
-Not many people know this but Monstercat launched in August of 2011 as a YouTube promotion channel/record label. It was a place for our friends to share music, cross promote each other and learn. We truly never expected it grow into the record label that we are today! 
 
-Since then, we have worked with countless other promotional channels to help develop their brand using the tools and connections we have developed over the past year. At the end of the day though, it was their original branding, their choice of music and their efforts that have shown them success, we were just an aid.
+>MONSTERCAT WILL NEVER STRIKE A VIDEO USING OUR PUBLICLY AVAILABLE MUSIC
+>
+>*In the following cases, we will block a video worldwide:  
+>(This is not a Strike and will not affect your channel in any way)*  
+>
+> - The video is posted before the release is posted to the Official Monstercat Channel. 
+> - The video includes filesharing links.
+> - The video includes edited original music (ie. Bass Boosted - This is not how the artists intended for their music to be heard. Please respect that.
+>
+>We ask that all music used in a video be credited in the video description using the following format:
 
-In saying this, know that we do value the service that YouTube promotion channels provide to up and coming artists and we are willing to work out ways for them to use our released music in their videos. Here is our official policy:
+>*Title: `song name` by `artist name`  
+>iTunes Download Link: `iTunes link to song`  
+>Listen on Spotify: `Spotify link to song`  
+>Video Link: `YouTube link to song`*  
 
-Monstercat Music Licensing – YouTube Promotor Channel Policy
+>A content-id match will automatically be applied to videos using our music. This guarantees that the original musician fairly receives a % of the audio portion of the advertising earnings. Visual portions and a % of the audio revenue is still claimable by the original channel.
 
-
-MONSTERCAT WILL NEVER STRIKE A VIDEO USING OUR PUBLICLY AVAILABLE MUSIC
-
-In the following cases, we will block a video worldwide:
-(This is not a Strike and will not affect your channel in any way)
-The video is posted before the release is posted to the Official Monstercat Channel. 
-The video includes filesharing links.
-The video includes edited original music (ie. Bass Boosted - This is not how the artists intended for their music to be heard. Please respect that.
-We ask that all music used in a video be credited in the video description using the following format:
-
->Title: `song name` by `artist name`
->iTunes Download Link: `iTunes link to song`
->Listen on Spotify: `Spotify link to song`
->Video Link: `YouTube link to song`
-
-A content-id match will automatically be applied to videos using our music. This guarantees that the original musician fairly receives a % of the audio portion of the advertising earnings. Visual portions and a % of the audio revenue is still claimable by the original channel.
-
-Members of the "The District" YouTube network will receive a 100% monetization license to monetize all of our content in addition to all other network provided services. Some partners in this program include Tasty Network, Trap and Bass, Liquicity, MrSuicideSheep, Pandoric, Spread the Jams and many more. Apply here: http://www.edmdistrict.com/apply/
+>Members of the "The District" YouTube network will receive a 100% monetization license to monetize all of our content in addition to all other network provided services. Some partners in this program include Tasty Network, Trap and Bass, Liquicity, MrSuicideSheep, Pandoric, Spread the Jams and many more. Apply here: http://www.edmdistrict.com/apply/
 
 We understand that the internet is a place for sharing and we appreciate all of the support we continue to receive from the family. We just ask that you please respect the original artists and their work - it is their livelihood! 
-
--Monstercat
-
-Edit 1: If Content-ID matches are disputed and you have not received permission to upload our music, we are forced by YouTube to place a strike on the video. This will also occur on channels who have uploaded the music before it is publicly available on the Monstercat channel.
