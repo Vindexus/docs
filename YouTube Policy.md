@@ -28,10 +28,10 @@ Content creators can apply to join the Monstercat Partner Program where they wil
 >
 >We ask that all music used in a video be credited in the video description using the following format:
 >
->Title: `song name` by `artist name`  
+>*Title: `song name` by `artist name`  
 >iTunes Download Link: `iTunes link to song`  
 >Listen on Spotify: `Spotify link to song`  
->Video Link: `YouTube link to song`  
+>Video Link: `YouTube link to song`*  
 
 >A content-id match will automatically be applied to videos using our music. This guarantees that the original musician fairly receives a % of the audio portion of the advertising earnings. This does not affect the video or channel in any way. We have strong relationships with every major gaming network. (ie Machinima, Curse, TGS, Fullscreen, TGN)
 
